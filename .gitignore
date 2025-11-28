@@ -1,0 +1,7 @@
+/users/images/*
+/users.json
+*.log
+*.env
+vendor/
+node_modules/
+.DS_Store

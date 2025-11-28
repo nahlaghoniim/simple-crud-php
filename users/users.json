@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "name": "Nahla Ghonim",
+        "username": "nahlagh",
+        "email": "nahla@gmail.com",
+        "phone": "+201012345678",
+        "website": "nahlagh.dev",
+        "image": "Nahla_G.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Omar Hassan",
+        "username": "omarh",
+        "email": "omar.hassan@example.com",
+        "phone": "+201223344556",
+        "website": "omarhassan.me",
+        "image": "1764292101_IMG_20250221_134431_904.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sara Mahmoud",
+        "username": "saram",
+        "email": "sara.mahmoud@example.com",
+        "phone": "+201554433221",
+        "website": "sara-portfolio.com"
+    },
+    {
+        "id": 4,
+        "name": "Ahmed Adel",
+        "username": "ahmeda",
+        "email": "ahmed.adel@example.com",
+        "phone": "+201334455667",
+        "website": "ahmed-codes.dev"
+    },
+    {
+        "id": 5,
+        "name": "Mona Khaled",
+        "username": "monak",
+        "email": "mona.khaled@example.com",
+        "phone": "+201667788990",
+        "website": "monak.design"
+    },
+    {
+        "id": 6,
+        "name": "Youssef Ali",
+        "username": "youssefa",
+        "email": "youssef.ali@example.com",
+        "phone": "+201778899004",
+        "website": "youssefali.io"
+    },
+    {
+        "id": 7,
+        "name": "Laila Saeed",
+        "username": "lailas",
+        "email": "laila.saeed@example.com",
+        "phone": "+201345678901",
+        "website": "lailas.me"
+    },
+    {
+        "id": 8,
+        "name": "Mahmoud Nasser",
+        "username": "mahmoudn",
+        "email": "mahmoud.nasser@example.com",
+        "phone": "+201901122334",
+        "website": "mnasser.tech"
+    },
+    {
+        "id": 10,
+        "name": "Karim Farouk",
+        "username": "karimf",
+        "email": "karim.farouk@example.com",
+        "phone": "+201556677889",
+        "website": "karimfarouk.org"
+    },
+    {
+        "name": "soha",
+        "username": "soo",
+        "email": "so@gmail.com",
+        "phone": "19385",
+        "website": "omarhassan.me",
+        "image": "1764292583_6928f7e709c90.jpeg",
+        "id": 11
+    },
+    {
+        "name": "salma",
+        "username": "saloma",
+        "email": "salma@gmail.com",
+        "phone": "19378",
+        "website": "salma.com",
+        "id": 12
+    },
+    {
+        "name": "Mostafa",
+        "username": "momo",
+        "email": "momo@gmail.com",
+        "phone": "198274",
+        "website": "salma.com",
+        "id": 13
+    },
+    {
+        "name": "Nahla",
+        "username": "nahllaa",
+        "email": "nahla@gmail.com",
+        "phone": "422613",
+        "website": "nahlagh.dev",
+        "id": 14
+    },
+    {
+        "name": "Nahla Mohamed ",
+        "username": "30301041202402",
+        "email": "nahlaghoniimm@gmail.com",
+        "phone": "0502794195",
+        "website": "nahlagh.dev",
+        "id": 15
+    }
+]
